@@ -6,7 +6,7 @@ while(n>0):
   digit=n%10
   sum+=digit**order
 if(temp==n):
-  print("armstrong")
+  print(" Yes")
 else:
-  print("not a armstrong")
+  print("No")
   
