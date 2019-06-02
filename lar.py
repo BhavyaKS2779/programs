@@ -1,5 +1,3 @@
+a=int(input())
 n=list(map(int,input().split()))
-a=n[1:]
-print(max(a))
-
-
+print(max(n))
