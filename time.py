@@ -1,4 +1,7 @@
 n=int(input())
-a=n//60
-b=n%60
-print(a,b)
+if(n>=60):
+    b=n//60
+    c=n%60
+    print(b,c)
+else:
+    print(0,n)
