@@ -1,3 +1,3 @@
-n1,n2=map(int,input().split())
-n3=n1+n2
-print(n3)
+num1,num2=map(int,input().split())
+num3=num1+num2
+print(num3)
