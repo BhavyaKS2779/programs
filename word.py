@@ -1,3 +1,3 @@
 n=int(input())
-a=['one','two','three','four','five','six','seven','eight','nine','ten']
+a=['One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
 print(a[(n)-1])
