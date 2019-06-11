@@ -1,2 +1,2 @@
-number=list(map(int,input().split()))
-print(max(number))
+bhavya=list(map(int,input().split()))
+print(max(bhavya))
