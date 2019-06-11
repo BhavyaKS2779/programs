@@ -1,2 +1,3 @@
 a=float(input())
-print(round(a))
+b=a+1
+print(int(b))
