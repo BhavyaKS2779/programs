@@ -1,0 +1,9 @@
+n=int(input())
+dh=10
+cd=a%10
+if(cd==0):
+    print(cd)
+else:
+    d=dh-cd
+    e=n+d
+    print(e)
