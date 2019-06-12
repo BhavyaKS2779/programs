@@ -1,2 +1,2 @@
-n=int(input())
-print(n*2)
+power=int(input())
+print(power*2)
