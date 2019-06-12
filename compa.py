@@ -1,7 +1,7 @@
-a,b=input().split()
-a=str(a)
-b=str(b)
-if(len(a)>len(b)):
-    print(a)
+ab,cd=input().split()
+ab=str(ab)
+cd=str(cd)
+if(len(ab)>len(cd)):
+    print(ab)
 else:
-    print(b)
+    print(cd)
