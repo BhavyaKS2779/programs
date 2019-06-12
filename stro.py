@@ -1,2 +1,3 @@
 n,k=input().split()
-print(n[:k])
+d=int(k)
+print(n[0:d])
