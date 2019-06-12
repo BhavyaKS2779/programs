@@ -4,7 +4,7 @@ c=0
 while a!=1:
     a=a//2
     c=c+1
-    d=2**c
+d=2**c
 if (temp==d):
     print("yes")
 else:
