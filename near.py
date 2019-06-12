@@ -1,5 +1,5 @@
-n=int(input())
-if(n%2==0):
-    print(n)
+near=int(input())
+if(near%2==0):
+    print(near)
 else:
-    print(n-1)
+    print(near-1)
