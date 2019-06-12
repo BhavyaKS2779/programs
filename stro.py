@@ -1,2 +1,2 @@
 n,k=input().split()
-print(n[:3])
+print(n[:k])
