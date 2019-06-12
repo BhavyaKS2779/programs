@@ -1,5 +1,5 @@
-n=int(input())
-if n%7==0:
+mul=int(input())
+if mul%7==0:
     print("yes")
 else:
     print("no")
