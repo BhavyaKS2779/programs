@@ -1,0 +1,2 @@
+sho=input()
+print(sho+".")
