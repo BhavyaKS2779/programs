@@ -1,3 +1,3 @@
-a=input()
-b=a[::-1]
-print(b)
+abc=input()
+bab=abc[::-1]
+print(bab)
