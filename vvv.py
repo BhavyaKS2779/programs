@@ -1,5 +1,5 @@
-n=int(input())
-if(n%3==0 or n%7==0):
+nak=int(input())
+if(nak%3==0 or nak%7==0):
     print("yes")
 else:
     print("no")
