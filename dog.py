@@ -1,2 +1,2 @@
-a,b=input().split()
-print(a[-int(b):])
+amm,bcc=input().split()
+print(amm[-int(bcc):])
